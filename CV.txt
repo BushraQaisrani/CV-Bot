@@ -1,0 +1,85 @@
+Name: Bushra Qadir
+Title: Software Engineering Student & Aspiring ML Engineer
+Location: Lahore, Pakistan
+Email: s2024065009@umt.edu.pk
+LinkedIn: linkedin.com/in/bushra-qadir
+
+SUMMARY
+Software Engineering undergraduate with hands-on experience designing and deploying
+machine learning models, system architectures, and AI-powered applications.
+Skilled across the ML lifecycle — from data preprocessing and model development
+to deployment — with additional strength in software architecture design and
+technical communication. Seeking opportunities to apply ML engineering skills
+to real-world healthcare, education, and civic-tech problems.
+
+EDUCATION
+BS Software Engineering — University of Management and Technology, Lahore
+Expected Graduation: 2026
+Relevant Coursework: Operating Systems, Machine Learning, Software Engineering,
+Data Structures, Psychology
+
+TECHNICAL SKILLS
+Programming Languages: Python, C++, JavaScript
+Machine Learning: TensorFlow, Keras, scikit-learn, RNN/LSTM/GRU architectures,
+   Random Forest, SVM, Naive Bayes
+Generative AI / RAG: LangChain, FAISS, OpenAI API, Streamlit
+Software Design: UML, C4 Model Architecture, System Design
+Tools: SQL, Git, PowerPoint/Technical Presentation Design
+
+KEY PROJECTS
+
+1. Heart Disease Prediction System (ML)
+   Built a machine learning classification model to predict heart disease risk
+   from patient clinical data. Performed data preprocessing, feature selection,
+   and model evaluation to support early, data-driven health risk assessment.
+
+2. Student Performance Prediction System (ML)
+   Developed a predictive model analyzing academic and behavioral features to
+   forecast student performance outcomes, aimed at enabling early academic
+   intervention and support.
+
+3. CycleGo — Smart Campus Bike-Sharing System (Software Design & Architecture)
+   Designed complete system architecture for a smart bike-sharing platform,
+   including UML class diagrams and a full C4 model breakdown (context,
+   containers, components) to define system structure and interactions.
+
+4. Sentiment Analysis on ChatGPT Reviews (Deep Learning)
+   Built and benchmarked RNN, LSTM, and GRU models for sentiment classification
+   on real-world review data, tuning embedding layers and comparing architecture
+   performance.
+
+5. SmartClinic System Architecture (Software Design)
+   Designed a full C4 model (all four levels) for a clinic management system,
+   delivered as interactive SVG diagrams illustrating system context,
+   containers, and components.
+
+6. Operating Systems Synchronization Suite
+   Implemented and analyzed classic concurrency problems — Reader-Writer
+   (Reader Priority & Writer Priority), Sleeping Barber, and TSL-based mutual
+   exclusion — with findings presented in a structured technical deck.
+
+7. Reinforcement Learning Concepts Presentation
+   Created a technical presentation covering Q-Learning, DQN, SARSA, and
+   Policy Gradient methods.
+
+8. CV RAG Chatbot (This Project)
+   Built a Retrieval-Augmented Generation chatbot using LangChain, FAISS, and
+   OpenAI's GPT-4o-mini that answers questions strictly from CV content, with
+   built-in refusal on out-of-scope queries to prevent hallucination.
+
+CERTIFICATIONS
+- Introduction to Machine Learning — Coursera
+- Python for Data Science — freeCodeCamp
+
+CO-CURRICULAR & LEADERSHIP ACTIVITIES
+- Active participant in university tech society events and AI/ML workshops
+- Volunteered in peer study groups for Machine Learning and Operating Systems
+- Presented technical project work in group presentations and class showcases
+- Participated in university-level case study and presentation competitions
+- Member of departmental software/AI project teams collaborating on
+  multi-person system design deliverables
+
+INTERESTS
+Applied AI research, healthcare technology, psychology of personality,
+cognitive science, and civic/policy applications of technology.personality,
+cognitive science, and civic/policy applications of technology.
